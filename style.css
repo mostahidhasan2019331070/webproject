@@ -17,7 +17,14 @@
 
   }
   .half-section img{
-    width:100%;
+    width:50%;
+
+  }
+  .name{
+    background-image: url("png/mountains-g90bd42529_1920.jpg");
+    border:2px solid blue;
+    margin: 4px;
+
 
   }
   
