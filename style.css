@@ -1,0 +1,23 @@
+
+@font-face {
+    font-family: "myFont";
+    src: url("myFont.woff2");
+  }
+  .clr{
+    color:orange;
+  }
+  h1{
+    font-size:50px;
+  }
+  .half-section{
+    width:45%;
+    margin-left: 4%;
+    padding-left: 1%;
+    float:left;
+
+  }
+  .half-section img{
+    width:100%;
+
+  }
+  
